@@ -1,2 +1,2 @@
 # growplant-tower
-Iot module that allows to control the hydroponic greenhouse
+Micropython Iot module that allows to control the hydroponic greenhouse
